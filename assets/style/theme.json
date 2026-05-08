@@ -1,0 +1,25 @@
+{
+    "button": {
+        "font": {  
+            "name": "Cambria Math",
+            "size": "35",               
+            "bold": "1"
+        },
+        "colours": {
+            "normal_bg": "#0a0a2a",
+            "hovered_bg": "#1a1a4a",
+            "selected_bg": "#2a2a6a",
+            "active_bg": "#3a3a8a",
+            "normal_text": "#ffffff",
+            "hovered_text": "#ffccff",
+            "selected_text": "#ffffff",
+            "active_text": "#ffffff"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "border_width": "2",
+            "shadow_width": "6",
+            "corner_radius": "8"
+        }
+    }
+}
